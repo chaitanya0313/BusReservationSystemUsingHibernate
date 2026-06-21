@@ -21,7 +21,7 @@
     </property>
 
     <property name="hibernate.connection.password">
-        1234
+        "REPLACE WITH YOUR PASSWORD"
     </property>
 
     <property name="hibernate.dialect">
